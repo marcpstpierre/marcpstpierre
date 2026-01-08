@@ -1,9 +1,4 @@
-About me
-
-
-**marcpstpierre/marcpstpierre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+About me:
 
 - 🔭 I’m currently working on onboarding at GitHub. 
 - 🌱 I’m currently learning the GitHub renewals team and how we work.
